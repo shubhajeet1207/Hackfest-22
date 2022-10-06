@@ -51,6 +51,7 @@ Now open CONTRIBUTORS.md in a text editor and add your name and your github link
       <a href="https://github.com/github_profile_link">Github</a>
     </td>
 ```
+**Note: Do not fill this detail twice or more than that.**
 ### 4. Choose your Stack
 ---
 * Web(HTML, CSS, JS)
