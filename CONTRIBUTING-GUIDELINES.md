@@ -8,9 +8,6 @@
 <p>If you are new to open-source and would like to make your first contribution, please participate in this project.<p>
 <p>Follow the steps below :- </p>
 
-_If you don't have GIT installed, [GIT Tutorial](https://github.com/HITK-2025/first-contribution/blob/main/installation.md)_
-
-***
 ## Git Setup Guide
 ***
 ### To initialise Git, write

@@ -9,7 +9,7 @@
 ## Contributing Guidelines 📝
 ---
 
-For contributing in this repository follow the guidelines mentioned in the [CONTRIBUTING](https://github.com/shubhajeet1207/HackFest-22/CONTRIBUTING-GUIDELINES.md) file, where I've provided you steps to make your contributions.
+For contributing in this repository follow the guidelines mentioned in the [CONTRIBUTING](https://github.com/shubhajeet1207/Hackfest-22/CONTRIBUTING-GUIDELINES.md) file, where I've provided you steps to make your contributions.
 
 Once the pull request is merged, you will find your awesome contribution card on our website.
 
@@ -20,7 +20,7 @@ Upon merging your PR, you can find your names on this [website](https://hacktobe
 <table>
   <tr>
     <td align="center">
-      <img src="https://avatars.githubusercontent.com/u/76960580?v=4" width="150px" alt="GSSoC'22" />
+      <img src="https://avatars.githubusercontent.com/u/76960580?v=4" width="150px" alt="HacktoberFest'22" />
       <br/>
       Shubhajeet Pradhan
       <br/>
