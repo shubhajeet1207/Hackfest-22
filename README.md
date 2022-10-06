@@ -29,3 +29,6 @@ Upon merging your PR, you can find your names on this [website](https://hacktobe
     </td> 
   </tr>
 </table>
+
+## License
+[MIT License](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt)
