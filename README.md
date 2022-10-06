@@ -25,7 +25,7 @@ Upon merging your PR, you can find your names on this [website](https://hacktobe
       Shubhajeet Pradhan
       <br/>
       <a href="https://www.linkedin.com/in/shubhajeet-pradhan-b7747a156/">LinkedIn</a>
-      <a href="https://github.com/varunKTshubhajeet1207">Github</a>
+      <a href="https://github.com/shubhajeet1207">Github</a>
     </td> 
   </tr>
 </table>
