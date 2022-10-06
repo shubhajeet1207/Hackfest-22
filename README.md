@@ -9,7 +9,7 @@
 ## Contributing Guidelines 📝
 ---
 
-For contributing in this repository follow the guidelines mentioned in the [CONTRIBUTING.md](https://github.com/shubhajeet1207/HackFest-22/CONTRIBUTING_GUIDELINES.md) file, where I've provided you steps to make your contributions.
+For contributing in this repository follow the guidelines mentioned in the [CONTRIBUTING-GUIDELINES.md](https://github.com/shubhajeet1207/HackFest-22/CONTRIBUTING_GUIDELINES.md) file, where I've provided you steps to make your contributions.
 
 Once the pull request is merged, you will find your awesome contribution card on our website.
 
