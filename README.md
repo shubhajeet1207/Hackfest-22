@@ -32,3 +32,9 @@ Upon merging your PR, you can find your names on this [website](https://hacktobe
 
 ## License 
 [MIT License](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt)
+
+<!-- <a href="https://github.com/shubhajeet1207/Hackfest-22/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=shubhajeet1207/Hackfest-22" />
+</a> -->
+---
+<div align='center'>Please give it a star if you enjoyed contributing to this repository ⭐</div>
