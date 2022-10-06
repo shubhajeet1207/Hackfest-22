@@ -13,5 +13,11 @@
     </td>
     <!-- End of Profile Information -->
     <!-- Add your profiles from here -->
+    <td align="center">
+       <img src="https://avatars.githubusercontent.com/u/85791796?v=4" width="150px" alt="HacktoberFest'22" />
+      <br/>
+      Ansh Rusia
+      <a href="https://github.com/anshrusia200">Github</a>
+    </td>
     </tr>
     </table>
