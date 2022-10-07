@@ -1,0 +1,65 @@
+#include<stdio.h>
+#include<math.h>
+#include<stdlib.h>
+#define infinity 1000000000
+int st[200] , arr[100];
+
+int min(int a,int b){
+    if(a<b)
+        return a;
+    else
+        return b;
+}
+void build(int si , int ss , int se)
+{
+	if(ss == se){
+		st[si] = arr[ss];
+		return;
+	}
+		
+	int mid = (ss + se)/2;
+	build(2*si , ss , mid);
+	build(2*si+1 , mid+1 , se);
+	
+	st[si] = min(st[2*si] , st[2*si+1]);
+}
+
+int query(int si , int ss , int se , int qs , int qe)
+{
+	if(qe < ss || qs> se)
+		return infinity;
+		
+	if(ss>=qs && se<=qe)
+		return st[si];
+	
+	int mid = (ss + se)/2;
+	int l = query(2*si , ss , mid , qs , qe);
+	int r = query(2*si+1 , mid+1 , se , qs , qe);
+	
+	return min(l , r);
+}
+int main()
+{
+	int n , q , l , r,choice=0;
+	printf("Enter the size of the array: ");
+	scanf("%d",&n);
+	printf("Enter the array elements one by one: \n");
+	for(int i=1;i<=n;i++)
+		scanf("%d",&arr[i]);
+	build(1 , 1 , n);
+	while(1){
+	printf("-----MENU-----\n1.Execute\n2.Exit\n");
+	printf("Enter your choice: ");
+	scanf("%d",&choice);
+	switch(choice)
+	{
+	    case 1: printf("Enter the range of position from left to right:\n");
+		scanf("%d%d",&l,&r);
+		printf("The minimum number in the given range is : %d\n\n",query(1 , 1 , n , l , r));
+		break;
+		case 2: exit(0);
+		default: printf("Invalid option\n\n");
+		break;
+	}
+	}
+}
