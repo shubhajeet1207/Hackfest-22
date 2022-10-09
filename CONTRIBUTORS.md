@@ -36,6 +36,12 @@
       <br/>
      Pavan Kamthane
       <a href="https://github.com/Pavan-Kamthane">Github</a>
+      </td>
+    <td align="center">
+       <img src="https://avatars.githubusercontent.com/u/102895022?v=4" width="150px" alt="HacktoberFest'22" />
+      <br/>
+     Pranit Kumar Singh
+      <a href="https://github.com/pranit9000">Github</a>
     </td>
     </tr>
     </table>
