@@ -19,5 +19,12 @@
       Ansh Rusia
       <a href="https://github.com/anshrusia200">Github</a>
     </td>
+    <!-- Uncomment the below and add your code from the below. -->
+    <!-- <td align="center">
+       <img src="your_github_profile_pic_link" width="150px" alt="HacktoberFest'22" />
+      <br/>
+      Your_name
+      <a href="github_profile_link">Github</a>
+    </td> -->
     </tr>
     </table>
