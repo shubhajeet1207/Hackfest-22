@@ -20,7 +20,7 @@
       <a href="https://github.com/anshrusia200">Github</a>
     </td>
      <td align="center">
-       <img src="" width="150px" alt="HacktoberFest'22" />
+       <img src="https://avatars.githubusercontent.com/u/84630851?v=4" width="150px" alt="HacktoberFest'22" />
       <br/>
       Hassan Kazi
       <a href="https://github.com/ANDROIDHASSAN">Github</a>
