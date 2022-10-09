@@ -9,8 +9,10 @@ contributors = [
       fullname: "Lovish Dak",
       username: "https://github.com/Lovish-Dak",
     },
-    // {
-    //     id: sequence_number,
-    //     fullname: "your_name",
-    //     username: "https://github.com/your_github_username",
-    //   }
+    {
+      id: 3,
+      fullname: " Vaibhav Tyagi",
+      username: "https://github.com/06vavy",
+    }
+    
+    
