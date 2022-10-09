@@ -49,5 +49,11 @@
      Syyam Noor
       <a href="https://github.com/syyam">Github</a>
     </td>
+    <td align="center">
+       <img src="https://avatars.githubusercontent.com/u/55330949?s=400&v=4" width="150px" alt="HacktoberFest'22" />
+      <br/>
+      Pokuri Gnana Samhitha
+      <a href="https://github.com/Pokurignanasamhitha">Github</a>
+    </td>
     </tr>
     </table>
