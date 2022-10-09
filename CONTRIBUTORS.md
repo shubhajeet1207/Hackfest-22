@@ -43,5 +43,11 @@
      Pranit Kumar Singh
       <a href="https://github.com/pranit9000">Github</a>
     </td>
+    <td align="center">
+       <img src="https://avatars.githubusercontent.com/u/20249719?v=4" width="150px" alt="HacktoberFest'22" />
+      <br/>
+     Syyam Noor
+      <a href="https://github.com/syyam">Github</a>
+    </td>
     </tr>
     </table>
