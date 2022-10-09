@@ -27,8 +27,5 @@ int main()
 	string s;
 	cin>>s;
 	cout<<lengthOfLongestSubstring(s)<<endl;
-    ios_base::sync_with_stdio(false);
-	cout.tie(NULL);
-	cin.tie(NULL);
 }
 
