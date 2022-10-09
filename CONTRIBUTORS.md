@@ -31,6 +31,11 @@
       Lovish Dak
       <a href="https://github.com/Lovish-Dak">Github</a>
     </td>
+    <td align="center">
+       <img src="https://avatars.githubusercontent.com/u/80189839?v=4" width="150px" alt="HacktoberFest'22" />
+      <br/>
+      Mohit Kumar
+      <a href="https://github.com/iammk31">Github</a>
     <!-- Uncomment the below and add your code from the below. -->
     <!-- <td align="center">
        <img src="your_github_profile_pic_link" width="150px" alt="HacktoberFest'22" />
