@@ -25,24 +25,17 @@
       Hassan Kazi
       <a href="https://github.com/ANDROIDHASSAN">Github</a>
     </td>
-
-   
-
     <td align="center">
        <img src="https://avatars.githubusercontent.com/u/78133279?v=4" width="150px" alt="HacktoberFest'22" />
       <br/>
-      Lovish Dak
+     Lovish Dak
       <a href="https://github.com/Lovish-Dak">Github</a>
-
     </td>
-    
-    
-     <td> align="center">
+    <td align="center">
        <img src="https://avatars.githubusercontent.com/u/95903010?v=4" width="150px" alt="HacktoberFest'22" />
       <br/>
-      Pavan Kamthane
+     Pavan Kamthane
       <a href="https://github.com/Pavan-Kamthane">Github</a>
-    </td> 
-    
+    </td>
     </tr>
     </table>
