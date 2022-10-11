@@ -56,7 +56,7 @@
       <a href="https://github.com/Pokurignanasamhitha">Github</a>
     </td>
     <td align="center">
-       <img src="[https://avatars.githubusercontent.com/u/55330949?s=400&v=4](https://avatars.githubusercontent.com/u/90183587?s=400&v=4)" width="150px" alt="HacktoberFest'22" />
+       <img src="https://avatars.githubusercontent.com/u/55330949?s=400&v=4](https://avatars.githubusercontent.com/u/90183587?s=400&v=4)" width="150px" alt="HacktoberFest'22" />
       <br/>
       Siddharth
       <a href="https://github.com/Siddharth2812">Github</a>
