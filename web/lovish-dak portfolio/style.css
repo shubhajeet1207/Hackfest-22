@@ -1,0 +1,206 @@
+body, html {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  background-color: #74dfd5;
+  font-family: Verdana, sans-serif;
+  color: white;
+}
+
+.container {
+  padding: 0%;
+  max-width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: stretch;
+  z-index: 1;
+  height: 100vh;
+  background-image: url(https://user-images.githubusercontent.com/5627973/104483031-8dbcb080-55bf-11eb-98f3-576e5035f3ce.png), url(https://user-images.githubusercontent.com/5627973/104483148-b47ae700-55bf-11eb-8501-b980c347cef2.png);
+  background-repeat: no-repeat;
+  background-position: 1240px 500px, -60px -60px;
+  background-size: 200px 200px, 200px 200px;
+}
+
+.container .content-wrapper {
+  overflow: hidden;
+  z-index: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0;
+  height: 100%;
+}
+
+.container .content-wrapper .main-content {
+  width: 75%;
+  height: 68%;
+  padding: 10px 7%;
+  border-radius: 20px;
+  box-shadow: 1px 1px 10px 5px #f4f5f9 inset;
+  z-index: 1;
+}
+
+.container .content-wrapper .main-content .topnav {
+  overflow: hidden;
+  background-color: inherit;
+  margin-bottom: 50px;
+}
+
+.container .content-wrapper .main-content .topnav a {
+  display: block;
+  text-decoration: none;
+  font-size: 15px;
+  color: #fcfcfc;
+  float: left;
+  padding: 2px 16px;
+  text-align: center;
+}
+
+.container .content-wrapper .main-content .topnav .logo-orange {
+  background: linear-gradient(to bottom, #FF8934 0%, #C65300 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 28px;
+  font-weight: bold;
+  font-family: Georgia, serif;
+}
+
+.container .content-wrapper .main-content .topnav .logo {
+  background: linear-gradient(to bottom, #fff 0%, #D5D5D5 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 28px;
+  font-weight: bold;
+  font-family: Georgia, serif;
+}
+
+.container .content-wrapper .main-content .topnav a:hover:not(:first-child) {
+  border-bottom: 1px solid #707070;
+}
+
+.container .content-wrapper .main-content .topnav .first {
+  margin-right: 29%;
+}
+
+.container .content-wrapper .main-content .info {
+  display: flex;
+  justify-content: space-between;
+  z-index: 1;
+}
+
+.container .content-wrapper .main-content .info .strengths {
+  width: 60%;
+  height: 30vh;
+  margin-top: -10px;
+  z-index: 2;
+}
+
+.container .content-wrapper .main-content .info .strengths .salutation {
+  font-size: 25px;
+}
+
+.container .content-wrapper .main-content .info .strengths .name {
+  font-size: 45px;
+}
+
+.container .content-wrapper .main-content .info .strengths .name .orange-color {
+  color: #FF7818;
+}
+
+.container .content-wrapper .main-content .info .strengths .job {
+  line-height: 0;
+}
+
+.container .content-wrapper .main-content .info .strengths .job .orange-color {
+  color: #FF7818;
+}
+
+.container .content-wrapper .main-content .info .strengths .qualities {
+  font-size: 14px;
+  color: #707070;
+}
+
+.container .content-wrapper .main-content .info .strengths .buttons-wrapper {
+  margin-top: 10px;
+  z-index: 1;
+}
+
+.container .content-wrapper .main-content .info .strengths .buttons-wrapper button {
+  padding: 7px 25px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.container .content-wrapper .main-content .info .strengths .buttons-wrapper .orange-button {
+  background-color: #FA8B3A;
+  color: white;
+  border: 1px black solid;
+  z-index: 1;
+}
+
+.container .content-wrapper .main-content .info .strengths .buttons-wrapper .transparent-button {
+  background-color: inherit;
+  border: 1px solid white;
+  margin-left: 10px;
+  color: white;
+  z-index: 1;
+}
+
+.container .content-wrapper .main-content .info .strengths .hand-right-wrapper {
+  width: 40%;
+  z-index: 2;
+  float: left;
+}
+
+.container .content-wrapper .main-content .info .strengths .hand-right-wrapper .hand-right {
+  width: 40vw;
+  height: 50vh;
+  z-index: 4;
+  margin-left: -31vw;
+  margin-top: -17vh;
+}
+
+.container .content-wrapper .main-content .info .strengths .hand-up-wrapper {
+  width: 40%;
+  z-index: 2;
+  float: left;
+}
+
+.container .content-wrapper .main-content .info .strengths .hand-up-wrapper .hand-up {
+  width: 40vw;
+  height: 55vh;
+  z-index: 5;
+  margin-left: -25vw;
+  margin-top: -2vh;
+}
+
+.container .content-wrapper .main-content .info .strengths .arrow-wrapper .arrow-down {
+  height: 70px;
+  width: 50px;
+  margin-top: 10vh;
+  z-index: 4;
+}
+
+.container .content-wrapper .main-content .info .picture {
+  width: 32%;
+  height: 40vh;
+  border: 7px solid #FA8B3A;
+  border-radius: 50%;
+  margin-right: -25px;
+  z-index: 3;
+}
+
+.container .content-wrapper .main-content .info .picture .pose-pic {
+  z-index: 5;
+  height: 80vh;
+  float: right;
+  margin: -9vh -40vh 0px 0px;
+  filter: drop-shadow(0 0 5px #5e0618);
+}
+
+.a {
+  text-decoration: none !important;
+}
