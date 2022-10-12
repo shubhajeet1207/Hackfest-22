@@ -1,0 +1,28 @@
+body {
+    background: #333;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+  }
+  .loading-page {
+    background: #777;
+    width: 100%;
+    height: 100vh;
+  }
+  .loading-page .counter h1 {
+    transform: translate(-50% -50%);
+    color: #fff;
+    font-size: 260px;
+    font-weight: bold;
+  }
+  .counter {
+    display: grid;
+    place-content: center;
+    height: 100%;
+    width: 100%;
+    position: fixed;
+  }
+  .counter h1 {
+    place-self: center;
+  }
+  
